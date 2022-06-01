@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0c258ca.css",
+    "main.js": "/static/js/main.f264d5d9.js",
+    "static/media/montserrat-regular-webfont.woff": "/static/media/montserrat-regular-webfont.45d5dab44e3b5aaa53bf.woff",
+    "static/media/montserrat-bold-webfont.woff": "/static/media/montserrat-bold-webfont.55b2bbc6a85a23937b05.woff",
+    "static/media/montserrat-bold-webfont.woff2": "/static/media/montserrat-bold-webfont.2ba48baa7331230f9a8b.woff2",
+    "static/media/montserrat-regular-webfont.woff2": "/static/media/montserrat-regular-webfont.ac8743d7ab8cec661cac.woff2",
+    "index.html": "/index.html",
+    "main.b0c258ca.css.map": "/static/css/main.b0c258ca.css.map",
+    "main.f264d5d9.js.map": "/static/js/main.f264d5d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c258ca.css",
+    "static/js/main.f264d5d9.js"
+  ]
+}
